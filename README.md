@@ -1,0 +1,1 @@
+This repo gives sample code on using a neural network for text classification
